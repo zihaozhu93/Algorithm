@@ -15,6 +15,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -30,7 +31,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|1|[467. 环绕字符串中唯一的子字符串](https://github.com/zihaozhu93/Algorithm/issues/1)||2023-12-19T10:26:33Z|
+|1|[467. 环绕字符串中唯一的子字符串](https://github.com/zihaozhu93/Algorithm/issues/1)|`前缀和` `dp`|2023-12-19T10:26:33Z|
 |6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
 |3|[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
 |2|[110. 平衡二叉树](https://github.com/Doragd/Algorithm/issues/2)|`二叉树` `递归`|2023-12-10T10:56:53Z|
