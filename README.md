@@ -14,6 +14,7 @@
 ## 🎯 Calendar
 
 
+
 * 2024/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -29,7 +30,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|4|[992. K 个不同整数的子数组](https://github.com/zihaozhu93/Algorithm/issues/4)||2024-01-04T03:02:26Z|
+|4|[992. K 个不同整数的子数组](https://github.com/zihaozhu93/Algorithm/issues/4)|`前缀和` `滑动窗口`|2024-01-04T03:02:26Z|
 |1|[467. 环绕字符串中唯一的子字符串](https://github.com/zihaozhu93/Algorithm/issues/1)|`前缀和` `dp`|2023-12-19T10:26:33Z|
 |6|[101. 对称二叉树](https://github.com/Doragd/Algorithm/issues/6)|`二叉树` `递归`|2023-12-16T02:01:21Z|
 |3|[904.水果成篮](https://github.com/zihaozhu93/Algorithm/issues/3)|`前缀和` `滑动窗口`|2023-12-21T12:39:08Z|
