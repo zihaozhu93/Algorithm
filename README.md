@@ -16,6 +16,7 @@
 
 
 
+
 * 2024/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -32,7 +33,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|9|[897. 递增顺序搜索树](https://github.com/zihaozhu93/Algorithm/issues/9)||2024-12-23T06:52:04Z|
+|9|[897. 递增顺序搜索树](https://github.com/zihaozhu93/Algorithm/issues/9)|`树遍历` `中序遍历`|2024-12-23T06:52:04Z|
 |8|[124. 二叉树中的最大路径和](https://github.com/zihaozhu93/Algorithm/issues/8)|`二叉树路径和`|2024-12-23T03:48:12Z|
 |7|[两个有序数组的中位数](https://github.com/zihaozhu93/Algorithm/issues/7)|`数组` `二分查找`|2024-12-21T03:52:23Z|
 |5|[1109. 航班预订统计](https://github.com/zihaozhu93/Algorithm/issues/5)|`前缀和`|2024-01-05T02:59:41Z|
