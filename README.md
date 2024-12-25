@@ -25,6 +25,7 @@
 
 
 
+
 * 2024/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -41,6 +42,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|17|[208. 实现 Trie (前缀树)](https://github.com/zihaozhu93/Algorithm/issues/17)|`字典树`|2024-12-25T10:05:05Z|
 |16|[373. 查找和最小的 K 对数字](https://github.com/zihaozhu93/Algorithm/issues/16)|`第k大的数`|2024-12-25T09:14:03Z|
 |15|[347. 前 K 个高频元素](https://github.com/zihaozhu93/Algorithm/issues/15)|`桶排序`|2024-12-25T07:27:32Z|
 |14|[703. 数据流中的第 K 大元素](https://github.com/zihaozhu93/Algorithm/issues/14)|`第k大的数` `二叉搜索树`|2024-12-25T02:59:52Z|
