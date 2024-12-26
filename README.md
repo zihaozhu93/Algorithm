@@ -29,6 +29,7 @@
 
 
 
+
 * 2024/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -45,6 +46,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|21|[677. 键值映射](https://github.com/zihaozhu93/Algorithm/issues/21)|`字典树`|2024-12-26T09:42:41Z|
 |20|[820. 单词的压缩编码](https://github.com/zihaozhu93/Algorithm/issues/20)|`字典树`|2024-12-26T09:00:05Z|
 |19|[676. 实现一个魔法字典](https://github.com/zihaozhu93/Algorithm/issues/19)|`字典树`|2024-12-26T06:36:49Z|
 |18|[648. 单词替换](https://github.com/zihaozhu93/Algorithm/issues/18)|`字典树`|2024-12-26T03:15:45Z|
