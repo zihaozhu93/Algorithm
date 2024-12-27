@@ -32,6 +32,7 @@
 
 
 
+
 * 2024/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -48,6 +49,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|24|[540. 有序数组中的单一元素](https://github.com/zihaozhu93/Algorithm/issues/24)|`二分查找`|2024-12-27T09:41:54Z|
 |23|[852. 山脉数组的峰顶索引](https://github.com/zihaozhu93/Algorithm/issues/23)|`二分查找`|2024-12-27T09:03:35Z|
 |22|[35. 搜索插入位置](https://github.com/zihaozhu93/Algorithm/issues/22)|`二分查找`|2024-12-27T08:50:51Z|
 |21|[677. 键值映射](https://github.com/zihaozhu93/Algorithm/issues/21)|`字典树`|2024-12-26T09:42:41Z|
