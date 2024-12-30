@@ -42,6 +42,7 @@
 
 
 
+
 * 2024/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -58,6 +59,7 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|33|[78. 子集](https://github.com/zihaozhu93/Algorithm/issues/33)|`回溯`|2024-12-30T10:28:04Z|
 |32|[23. 合并 K 个升序链表](https://github.com/zihaozhu93/Algorithm/issues/32)|`链表排序`|2024-12-30T08:49:31Z|
 |31|[148. 排序链表](https://github.com/zihaozhu93/Algorithm/issues/31)|`链表` `链表排序`|2024-12-30T08:35:56Z|
 |30|[215. 数组中的第K个最大元素](https://github.com/zihaozhu93/Algorithm/issues/30)|`第k大的数`|2024-12-30T07:22:42Z|
