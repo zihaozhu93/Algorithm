@@ -13,6 +13,7 @@
 
 ## 🎯 Calendar
 
+
 * 2025/1
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -21,13 +22,14 @@
 |6|7|8|9|10|11|12|
 |13|14|15|16|17|18|19|
 |20|21|22|23|24|25|26|
-|27|28|29|30|31|1|2|
+|27|28|29|30|31|1|2🌟|
 
 
 ## 🍃 Records
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
+|40|[131. 分割回文串](https://github.com/zihaozhu93/Algorithm/issues/40)|`回溯`|2025-01-02T02:40:23Z|
 |39|[22. 括号生成](https://github.com/zihaozhu93/Algorithm/issues/39)|`回溯`|2025-01-02T01:30:36Z|
 |38|[47. 全排列 II(含有重复元素)](https://github.com/zihaozhu93/Algorithm/issues/38)|`回溯` `排列`|2024-12-31T04:01:26Z|
 |37|[46. 全排列](https://github.com/zihaozhu93/Algorithm/issues/37)|`回溯` `排列`|2024-12-31T03:32:52Z|
